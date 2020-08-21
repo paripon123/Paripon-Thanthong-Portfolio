@@ -1,5 +1,5 @@
 # Paripon-Thanthong-Portfolio
-Data Scien project portfolio
+Data Science project portfolio
 
 # [Project 1 : NYC Real Estate Price Prediction](https://github.com/paripon123/NYC-Real-Estate-price-prediction)
 -
