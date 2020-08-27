@@ -13,7 +13,7 @@ In this project, the goal is to implement a model for predicting the price of re
   [Project Link](https://github.com/paripon123/DSC-478/blob/master/FinalProject_MLmodels%20(1).ipynb)
   - Overview
     
-# Project 4 : Airbnb Analysis
+# Project 4 : Airbnb Data Analysis
    [Project Link](https://github.com/paripon123/DSC-540/blob/master/Final%20Project%20540.ipynb)
   - Overview
     
