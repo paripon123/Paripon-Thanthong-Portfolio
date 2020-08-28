@@ -1,4 +1,5 @@
-# Paripon-Thanthong-Portfolio
+# Paripon Thanthong
+## Portfolio
   - Data Science project portfolio
 
 ### Project 1 : NYC Real Estate Price Prediction
