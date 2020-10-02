@@ -1,7 +1,7 @@
 # Paripon Thanthong Portfolio
   - BIO
   
-  My Name is Paripon Thanthong, a graduate student at DePaul University in Data Science. I'm passionated about the what can we do from the insight we can ghather from the data and coding in general.
+  My Name is Paripon Thanthong, a graduate student at DePaul University in Data Science. I'm passionated about what the insight we can learn and apply from the data in practical ,and coding in general.
     
 ## Portfolio
   - Data Science project portfolio
